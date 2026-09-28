@@ -1,5 +1,5 @@
 # Sales & Finance Dashboard
-### Understanding what drives revenue—and where the business needs to act
+### Understanding what drives revenue and where the business needs to act
 ## Why I Built This Dashboard
 Revenue alone does not explain whether a business is performing well. Sales can increase while customers buy less, customer relationships weaken, or reporting gaps hide changes in channel performance.
 I built this Power BI dashboard to investigate the drivers behind sales performance: customer acquisition and retention, cylinder demand, revenue per cylinder, and the contribution of different products, industries, and order channels.
@@ -12,7 +12,7 @@ The dataset contains 224,670 order items covering January 2017 to 21 November 20
 These are totals across the full dataset. Year-over-year comparisons use comparable periods through 21 November because 2022 is incomplete.
 ## Main Findings
 ### 1. Revenue growth masks declining cylinder demand
-The dashboard shows approximately **3% revenue growth**, alongside an **8% decline in cylinder volume** and a **12% increase in revenue per cylinder** in the displayed year-over-year comparison.
+The dashboard shows approximately **3% revenue growth**, alongside an **8% decline in cylinder volume** and a **12% increase in revenue per cylinder** in the displayed year over year comparison.
 This is the central finding: the business is generating more revenue per cylinder while selling fewer cylinders.
 Higher average revenue per cylinder is offsetting the reduction in volume. However, this measure reflects both pricing and sales mix, so the analysis does not establish that price increases alone caused the improvement.
 **Why this matters:** focusing only on revenue growth could hide weakening demand. If volume continues to decline, maintaining revenue may become increasingly dependent on higher prices or a more valuable product mix.
